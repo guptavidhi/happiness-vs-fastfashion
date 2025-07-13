@@ -1,3 +1,6 @@
 Happiness Data: World Happiness Report 2024
 
 Social Media Data: DataReportal Digital 2024 Global Overview
+
+Social media hour wise data : citation:
+Source: GlobalWebIndex via Comparitech, 2023/2024 — https://www.comparitech.com/tv-streaming/screen-time-statistics/
